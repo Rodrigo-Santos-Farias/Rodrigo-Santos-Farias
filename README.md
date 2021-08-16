@@ -3,7 +3,7 @@
  <h3> 👀 Sobre mim </h3>
 
 - 📖 Estudando na escola **Eeep Flavio Gomes Granjeiro**
-- 🔭 Estudando atualmente:  **Node, Angular, & Typescript**
+- 🔭 Atualmente estudando:  **Node, Angular, & Typescript**
 
  <div>
   <a href="https://github.com/Rodrigo-Santos-Farias">
