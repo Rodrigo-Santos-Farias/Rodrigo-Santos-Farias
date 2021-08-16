@@ -1,6 +1,6 @@
 ### Olá! eu sou o Rodrigo Santos👋
 
-👀  **Sobre mim**
+ <h3> 👀 Sobre mim </h3>
 
 - 📖 Estudando na escola **Eeep Flavio Gomes Granjeiro**
 - 🔭 Estudando atualmente:  **Node, Angular, & Typescript**
