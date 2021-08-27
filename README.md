@@ -5,8 +5,6 @@
 - 📖 Estudando na escola **Eeep Flavio Gomes Granjeiro**
 - 🔭 Atualmente estudando:  **Node, Angular, & Typescript**
 
----
-
  <div>
   <a href="https://github.com/Rodrigo-Santos-Farias">
    
