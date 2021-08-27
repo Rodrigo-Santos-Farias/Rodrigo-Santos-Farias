@@ -1,4 +1,4 @@
-### Olá! eu sou o Rodrigo Santos👋
+### Olá! eu sou o Rodrigo Farias👋
 
  <h3> 👀 Sobre mim </h3>
 
